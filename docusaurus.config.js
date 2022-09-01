@@ -9,7 +9,7 @@ const config = {
   title: 'Gephi Documentation Center',
   tagline: 'Material for Gephi Developper',
   url: 'https://documentation.gephi.org',
-  baseUrl: '/',
+  baseUrl: '/gephi-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
